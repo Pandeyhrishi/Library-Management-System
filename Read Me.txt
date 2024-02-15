@@ -1,0 +1,5 @@
+---Admin window---
+
+Login---
+User Id-system
+pass-system
